@@ -9,23 +9,17 @@
 
 .container-wrapper {
   margin: 0;
-  padding: 31px;
-  background-color: greenyellow;
+  padding: 1em 0 1em 0 ;
+  
+  max-width: 1080px;
   display: flex;
-  justify-content:center;
-  align-items: center;
+  justify-content:space-evenly;
   flex-wrap: wrap;
-
-
 }
 
-.img {
-  margin: 0;
+img {
+  padding: .5em;
+  margin-bottom: 5px;
+ 
 }
 
-.img1 .img4 {
-  margin: 0;
-  margin-right: 20px;
-  margin-bottom: 20px;
-
-}
